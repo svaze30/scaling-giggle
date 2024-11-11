@@ -79,7 +79,7 @@ const LoginPage = () => {
             type="submit"
             className="w-full bg-gradient-to-r from-teal-400 to-blue-500 hover:from-purple-500 hover:to-blue-500 text-white p-2 rounded"
           >
-            Log In
+            LOG IN
           </button>
         </form>
       </div>
